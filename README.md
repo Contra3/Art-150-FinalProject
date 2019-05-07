@@ -1,1 +1,1 @@
-# Art-150-FinalProject
+# Code for the Art 150 Final Project
